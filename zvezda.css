@@ -1,0 +1,58 @@
+.row  {
+  text-align: left;
+  padding-left: 1rem;
+}
+.well, h6, h1, h2 {
+  text-align: center;
+  padding-bottom: 1.5rem;
+  font-family: 'Space Mono', monospace;
+}
+
+h6 {
+  padding-top: 1rem;
+  font-style: italic;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Space Mono', monospace;
+  padding-bottom: 1rem;
+ }
+
+p {
+  font-family: 'Lekton', sans-serif;
+  text-align: justify;
+  font-size: 1rem;
+  
+}
+
+.stadium-img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+.display-2 {
+  color: black;
+  font-family: 'Black Ops One', cursive;
+  font-size: 4rem;
+}
+
+.zvezda-logo {
+  padding: 1rem;
+  margin: auto;
+  max-width: 100%;
+}
+.om-logo {
+  padding: 1rem;
+  margin: 0;
+  max-width: 100%;
+}
+
+.col-md-3 {
+  margin: 0;
+ }
+.sampion-img {
+  margin: auto;
+  max-width: 100%;
+}
